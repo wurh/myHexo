@@ -57,13 +57,13 @@ fancybox: false
 
 #### Author information
 author:
-  google_plus:    ## eg:116338260303228776998 for https://plus.google.com/u/0/116338260303228776998
-  weibo:      ## e.g. 436062867 for http://weibo.com/436062867
-  twitter:    ## e.g. gengbiaosky for https://twitter.com/yangjiansky
-  github:     ## e.g. coneycode for https://github.com/coneycode
-  facebook:   ## e.g. gengbiao for https://favebook.com/yangjian
-  tsina:      ## e.g. 1664838973  Your weibo ID,It will be used in share button.
-  zhihu:     # coneylife, now it is no icon, I have push an issue to Font Awesome.
+  google_plus: #eg:116338260303228776998 for https://plus.google.com/u/0/116338260303228776998
+  weibo:       1674582564
+  twitter:     #e.g. gengbiaosky for https://twitter.com/yangjiansky
+  github:      wurh
+  facebook:    profile.php?id=100010610046396
+  tsina:       #e.g. 1664838973  Your weibo ID,It will be used in share button.
+  zhihu:       #coneylife, now it is no icon, I have push an issue to Font Awesome.
 
 #### Comment
 duoshuo: 
