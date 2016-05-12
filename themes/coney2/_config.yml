@@ -68,7 +68,7 @@ author:
 #### Comment
 duoshuo: 
   enable: true  ## duoshuo.com
-  short_name:  ## e.g. coney,duoshuo short name.
+  short_name:  wurh
 
 #### Share button
 jiathis:
