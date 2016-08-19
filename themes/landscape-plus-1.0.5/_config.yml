@@ -36,9 +36,8 @@ fb_admins:
 fb_app_id:
 
 # Duoshuo
-duoshuo:
-  enable: true  ## duoshuo.com
-  short_name:  wurh
+duoshuo: true
+duoshuo_shortname: wurh
 
 # Baidu share
 baidushare: true
