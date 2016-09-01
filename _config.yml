@@ -71,7 +71,7 @@ disqus_shortname:
 # Extensions 这里配置站点所用主题和插件，暂默认，后面会介绍怎么修改
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
-theme: landscape-plus-1.0.5
+theme: hexo-next
 exclude_generator:
 plugins:
 - hexo-generator-feed
