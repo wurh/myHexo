@@ -1,7 +1,7 @@
 title: Hello World
 date: 2014-12-24 21:28:41
-categories: 技术
-tags:
+categories: 经验总结
+tags: 工具
 ---
 Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
