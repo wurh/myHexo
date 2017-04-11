@@ -31,6 +31,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     {% set container_class = container_class + 'sidebar-position-' + theme.sidebar.position %}
   {% endif %}
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69412379-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
   <script>
   var _hmt = _hmt || [];
   (function() {
@@ -40,6 +51,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     s.parentNode.insertBefore(hm, s);
   })();
   </script>
+
 
   <div class="{{ container_class }} {% block page_class %}{% endblock %} ">
     <div class="headband"></div>
